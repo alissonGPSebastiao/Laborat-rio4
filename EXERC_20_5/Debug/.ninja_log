@@ -1,0 +1,16 @@
+# ninja log v5
+0	69	6493046185024992	C:/Users/aliss/OneDrive/Área de Trabalho/TM4C129E_SM_IAR9-main/Projects/EXERC_20_5/Debug/Obj/gpio_int.o	4e8055dc06252124
+9	100	6493046185424971	C:/Users/aliss/OneDrive/Área de Trabalho/TM4C129E_SM_IAR9-main/Projects/EXERC_20_5/Debug/Obj/startup_TM4C129E.o	7d93a004d39ad11e
+108	227	6493046186524905	C:/Users/aliss/OneDrive/Área de Trabalho/TM4C129E_SM_IAR9-main/Projects/EXERC_20_5/Debug/Exe/gpio_int.out	d8208f80d2926b43
+4	78	6493048037958040	C:/Users/aliss/OneDrive/Área de Trabalho/TM4C129E_SM_IAR9-main/Projects/EXERC_20_5/Debug/Obj/gpio_int.o	4e8055dc06252124
+85	220	6493048039157966	C:/Users/aliss/OneDrive/Área de Trabalho/TM4C129E_SM_IAR9-main/Projects/EXERC_20_5/Debug/Exe/gpio_int.out	d8208f80d2926b43
+2	78	6493048910689316	C:/Users/aliss/OneDrive/Área de Trabalho/TM4C129E_SM_IAR9-main/Projects/EXERC_20_5/Debug/Obj/gpio_int.o	4e8055dc06252124
+85	165	6493048911589261	C:/Users/aliss/OneDrive/Área de Trabalho/TM4C129E_SM_IAR9-main/Projects/EXERC_20_5/Debug/Exe/gpio_int.out	d8208f80d2926b43
+2	23	6493050671826867	C:/Users/aliss/OneDrive/Área de Trabalho/TM4C129E_SM_IAR9-main/Projects/EXERC_20_5/Debug/Obj/gpio_int.o	4e8055dc06252124
+27	102	6493050672516480	C:/Users/aliss/OneDrive/Área de Trabalho/TM4C129E_SM_IAR9-main/Projects/EXERC_20_5/Debug/Exe/gpio_int.out	d8208f80d2926b43
+2	66	6493051256092529	C:/Users/aliss/OneDrive/Área de Trabalho/TM4C129E_SM_IAR9-main/Projects/EXERC_20_5/Debug/Obj/gpio_int.o	4e8055dc06252124
+72	178	6493051257091955	C:/Users/aliss/OneDrive/Área de Trabalho/TM4C129E_SM_IAR9-main/Projects/EXERC_20_5/Debug/Exe/gpio_int.out	d8208f80d2926b43
+6	79	6493051940626507	C:/Users/aliss/OneDrive/Área de Trabalho/TM4C129E_SM_IAR9-main/Projects/EXERC_20_5/Debug/Obj/gpio_int.o	4e8055dc06252124
+84	190	6493051941626451	C:/Users/aliss/OneDrive/Área de Trabalho/TM4C129E_SM_IAR9-main/Projects/EXERC_20_5/Debug/Exe/gpio_int.out	d8208f80d2926b43
+3	109	6493052306935392	C:/Users/aliss/OneDrive/Área de Trabalho/TM4C129E_SM_IAR9-main/Projects/EXERC_20_5/Debug/Obj/gpio_int.o	4e8055dc06252124
+114	341	6493052309135259	C:/Users/aliss/OneDrive/Área de Trabalho/TM4C129E_SM_IAR9-main/Projects/EXERC_20_5/Debug/Exe/gpio_int.out	d8208f80d2926b43
